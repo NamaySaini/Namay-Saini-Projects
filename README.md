@@ -1,5 +1,5 @@
 # Namay-Saini-Projects
-This repository contains code and experiments developed for the **Advanced Networks Lab**. The projects explore networking concepts such as routing, congestion control, and performance analysis, with implementations and simulations to test theoretical ideas in practice.  
+This repository contains code and experiments developed for the **Advanced Networks Lab**. The project explores networking concepts such as routing, congestion control, and performance analysis, with implementations and simulations to test theoretical ideas in practice.  
 
 ## Overview
 The code in this repository was created as part of lab coursework and research, focusing on:

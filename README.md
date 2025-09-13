@@ -1,5 +1,5 @@
 # Namay-Saini-Projects
-This repository contains code and experiments developed for the Advanced Networks Lab and a Pac-Man game I created for fun in Python. The Network Scheduling System explores networking concepts such as routing, congestion control, and performance analysis, with implementations and simulations to test theoretical ideas in practice. Here are the details for the Network Scheduling System:
+This repository contains code and experiments developed for the Advanced Networks Lab and a Pac-Man game I started making for fun in Python (not fully complete yet). The Network Scheduling System explores networking concepts such as routing, congestion control, and performance analysis, with implementations and simulations to test theoretical ideas in practice. Here are the details for the Network Scheduling System:
 
 ## Overview
 The code in this repository was created as part of lab coursework and research, focusing on:
